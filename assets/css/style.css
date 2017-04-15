@@ -55,7 +55,7 @@
     display: block;
     color: #0D2132;
     font-family: 'Karla', sans-serif;
-    font-size: 16px; 
+    font-size: 18px; 
   }
 
   h1 { font-size: 48px }
@@ -249,7 +249,7 @@
   .nav-options > .option > a {
     color: #ffffff;
     font-weight: 200;
-    font-size: 16px;
+    font-size: 18px;
     font-family: 'Nunito', sans-serif;
     display: inline-block;
     padding: 32px 24px;
@@ -429,7 +429,7 @@
 
   .importance-info {
     margin: 48px auto 0;
-    font-size: 13px;
+    font-size: 18px;
   }
 
   .importance-info > i {
@@ -807,7 +807,7 @@
     margin: 0 auto;
     padding: 16px 15px;
     font-family: 'Nunito', sans-serif;
-    font-size: 16px;
+    font-size: 18px;
     box-sizing: border-box;
     border-radius: 0;
   }
@@ -978,7 +978,7 @@
   .subscription-input > input {
     padding: 18px;
     font-family: 'Karla', sans-serif;
-    font-size: 16px;
+    font-size: 18px;
     margin-right: 20px;
     box-sizing: border-box;
     width: 100%;
@@ -997,7 +997,7 @@
     -moz-appearance: none;
          appearance: none;
     border: none;
-    font-size: 16px;
+    font-size: 18px;
     letter-spacing: 2px;
   }
 
